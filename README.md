@@ -1,5 +1,5 @@
 # SliderPuzzle
-A simple slider puzzle that I created in Java. It supports local and remote images of any resolution. Run configurations will be listed  in the README.
+A simple slider puzzle that I created in Java. It supports local and remote images of any resolution.
 
 Run Configurations: ('#' and '$' should not be included during the run process.)<br>
 "java Start" - Starts a new 4 x 4 Slider Puzzle with White pieces.<br>
