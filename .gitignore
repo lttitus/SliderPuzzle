@@ -1,0 +1,15 @@
+*.class
+
+#Binary dir
+bin/
+
+#Images
+*.png
+*.gif
+*.jpg
+*.bmp
+
+#Eclipse
+.settings/
+.classpath
+.project
